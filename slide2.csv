@@ -1,0 +1,32 @@
+Metric,AUDIT,,FIRM,
+,Current,Prior,Current,Prior
+Revenue - YTD," $578,000,000.00 "," $555,000,000.00 "," $4,340,000,000.00 "," $3,885,000,000.00 "
+Client Service Hours - YTD,3475992,3475018,28331631,25219367
+Client Service Compensation - YTD," $242,000,000.00 "," $234,000,000.00 "," $2,036,000,000.00 "," $1,818,000,000.00 "
+Direct Margin - YTD," $336,000,000.00 "," $321,000,000.00 "," $2,304,000,000.00 "," $2,066,000,000.00 "
+EBA Earnings - YTD," $198,000,000.00 "," $192,000,000.00 "," $1,847,000,000.00 "," $1,650,000,000.00 "
+Professional & Admin Expenses - YTD," $36,000,000.00 "," $38,000,000.00 "," $212,000,000.00 "," $194,000,000.00 "
+Other Business Cost - YTD," $102,000,000.00 "," $91,000,000.00 "," $245,000,000.00 "," $222,000,000.00 "
+Controllable Earnings Margin - YTD," $136,000,000.00 "," $120,000,000.00 "," $1,356,000,000.00 "," $1,182,000,000.00 "
+Rate per Hour, $166.28 , $159.71 , $153.19 , $154.05 
+CS Compensation per Hour, $69.62 , $67.34 , $71.86 , $72.09 
+Other Business Cost per Hour, $29.34 , $26.19 , $8.65 , $8.80 
+EBA Margin per Hour, $56.96 , $55.25 , $65.19 , $65.43 
+CE Margin per Hour, $39.13 , $34.53 , $47.86 , $46.87 
+YoY Rate Per Hour Growth,4.1%,,-0.6%,
+YoY CS Compensation per Hour Growth,3.4%,,-0.3%,
+YoY Other Business Cost per Hour Growth,12.1%,,-1.8%,
+YoY EBA Margin per Hour Growth,3.1%,,-0.4%,
+YoY Controllable Earnings Margin Growth,13.3%,,2.1%,
+,,,,
+,,,,
+Line 1 Circle,-0.6%,,,
+Line 1 Square,4.1%,,,
+Line 2 Circle,-0.3%,,,
+Line 2 Square,3.4%,,,
+Line 3 Circle,-1.8%,,,
+Line 3 Square,12.1%,,,
+Line 4 Circle,-0.4%,,,
+Line 4 Square,3.1%,,,
+Line 5 Circle,2.1%,,,
+Line 5 Square,13.3%,,,

@@ -1,0 +1,11 @@
+*.pyc
+*.xlsx#
+*.pptx#
+~$*.pptx
+~$*.xlsx
+output.pptx
+dashboard-*/\[Content_Types\].xml
+dashboard-*/_rels/
+dashboard-*/docProps/
+dashboard-*/ppt/
+separate-charts/
